@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NationalFlags</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stretchColumns">0,1,2</string>
+    <string name="moreInformation">More Information</string>
+    <string name="moreInfo">More Info</string>
+
+</resources>
